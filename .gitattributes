@@ -2,3 +2,7 @@ demo1.mp4 filter=lfs diff=lfs merge=lfs -text
 ECG_PC_application.mov filter=lfs diff=lfs merge=lfs -text
 XArm_display.MOV filter=lfs diff=lfs merge=lfs -text
 FlexibleSensorFlipBird.mov filter=lfs diff=lfs merge=lfs -text
+FlexibleSensorFlipBird.MOV filter=lfs diff=lfs merge=lfs -text
+FlexibleSensorFlipBird.mp4 filter=lfs diff=lfs merge=lfs -text
+Pressure_input.mp4 filter=lfs diff=lfs merge=lfs -text
+Pressure_visualization.mp4 filter=lfs diff=lfs merge=lfs -text
