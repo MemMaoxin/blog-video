@@ -7,3 +7,4 @@ FlexibleSensorFlipBird.mp4 filter=lfs diff=lfs merge=lfs -text
 Pressure_input.mp4 filter=lfs diff=lfs merge=lfs -text
 Pressure_visualization.mp4 filter=lfs diff=lfs merge=lfs -text
 PPG_mobile.mp4 filter=lfs diff=lfs merge=lfs -text
+Multi_modal.MOV filter=lfs diff=lfs merge=lfs -text
